@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	Open Sans
 	line-height: 40px;
 	font-size: 32px;
 	min-height: 740px;
@@ -156,16 +156,19 @@ BASIC TYPOGRAPHY
 */
 
 h1 {
+	font-family: 'Oswald', sans-serif;
 	font-size: 80px;
 }
 
 h2 {
+	font-family: 'Oswald', sans-serif;
 	font-size: 48px;
 	letter-spacing: 0.1em;
 	text-transform: uppercase;
 }
 
 h6 {
+	font-family: 'Oswald', sans-serif;
 	font-size: 18px;
 }
 
