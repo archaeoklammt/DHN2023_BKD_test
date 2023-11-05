@@ -3,4 +3,4 @@
 
 München 2023-01-18
 
-slides are [online](https://digicademy.github.io/DHN2023_BKD)
+slides are [online](https://archaeoklammt.github.io/DHN2023_BKD_test)
