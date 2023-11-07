@@ -9,7 +9,8 @@ html {
 }
 
 body {
-	Open Sans
+	font-family: Source Sans Pro;
+	background-color: #F7F7F7;
 	line-height: 40px;
 	font-size: 32px;
 	min-height: 740px;
@@ -77,19 +78,19 @@ body {
 #slide-div {
 	position: absolute;
 	bottom: 15px;
-	right: 15px;
+	right: 5px;
 	padding: 10px 2px;
 	margin-left: 0;
 	margin-top: 0;
 	height: 10px;
-	width: 80px;
+	width: 160px;
 }
 
 #slide-text {
 	bottom: 0px;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: center;
-	color: #C0C0C0;
+	color: #007377;
 }
 
 .slide-div-1 {
@@ -164,7 +165,9 @@ h2 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 48px;
 	letter-spacing: 0.1em;
+/*
 	text-transform: uppercase;
+*/
 }
 
 h6 {
@@ -179,12 +182,12 @@ p {
 a {
 	pointer-events: none;
 	text-decoration: none;
-	color: #1e88e5;
+	color: #993366;
 	font-weight: bold;
 }
 
 a:link, a:hover, a:focus, a:visited {
-	color: #1e88e5;
+	color: #993366;
 }
 
 strong {
@@ -213,7 +216,7 @@ sub {
 ol, ul {
 	margin: 0 0 20px 40px;
 	line-height: 1.5;
-	/*line-height: 1;*/	
+	/*line-height: 1;*/
 }
 
 ol ol, ul ul {
@@ -234,7 +237,7 @@ li {
 li:before {
 	position: absolute;
 	left: -0.25em;
-	color: #C00000;
+	color: #007377;
 }
 
 ul li:before {
@@ -265,6 +268,7 @@ dd + dt {
 
 blockquote {
 	font-style: italic;
+  color: #007377;
 	line-height: 1.5;
 	margin: 0;
 	padding: 10px 10px 16px 10px;
@@ -338,19 +342,19 @@ CLASSES FOR SPECIAL LAYOUT/TYPOGRAPHY
 }
 
 .underline {
-	border-bottom: 1px solid #333;
+	border-bottom: 1px solid #707070;
 }
 
 .dotted {
-	border-bottom: 1px dotted #333;
+	border-bottom: 1px dotted #707070;
 }
 
 .red {
-	color: #C00000;
+	color: #993366;
 }
 
 .outline {
-	outline: 1px solid #333;
+	outline: 1px solid #707070;
 	padding-left: 0.2em;
 	padding-right: 0.2em;
 }

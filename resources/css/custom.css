@@ -21,7 +21,7 @@
 #step-1 h1 {
 	margin-right: 1.2em;
 	padding-left: .1em;
-	background-color: #b0d377;
+	background-color: #FFFFFF;
 	font: Oswald;
 }
 
@@ -30,18 +30,18 @@
 	z-index: -1;
 	margin-left: 1em;
 	padding-left: .1em;
-	background-color: #e3f0d2;
+	background-color: #00c5cc;
 	font: Oswald;
 }
 
 .step h2:first-child {
-	padding-left: .2em;logo_grey
+	padding-left: .2em;Logo-Header-HAIT
 	color: white;
-	background-color: #01315f;
+	background-color: #FFFFFF;
 	background-image: url("../img/Logo-Header-HAIT.png");
 	background-repeat: no-repeat;
-	background-position: right .2em bottom -.2em;
-	background-size: 1.6em;
+	background-position: right .2em bottom .2em;
+	background-size: 2.4em;
 }
 
 .step h2:first-child + h3 {
@@ -50,7 +50,7 @@
 	margin-top: -25px;
 	margin-right: 4em;
 	padding-left: 1em;
-	background-color: #e3f0d2;
+	background-color: #DCDCDC;
 }
 
 /* video */
@@ -59,12 +59,12 @@ video {
 }
 
 kbd {
-background: #F7F7F7; 
-background-image:linear-gradient(rgba(255,255,255,.4),rgba(127,127,127,.2)); border-color:#DDDDDD #AAAAAA #888888 #CCCCCC; border-radius:2px; border-style:solid; border-width:1px; padding:0 .4em; text-shadow:0 1px rgba(255,255,255,.2); white-space:nowrap;    
+background: #F7F7F7;
+background-image:linear-gradient(rgba(255,255,255,.4),rgba(127,127,127,.2)); border-color:#DDDDDD #AAAAAA #888888 #CCCCCC; border-radius:2px; border-style:solid; border-width:1px; padding:0 .4em; text-shadow:0 1px rgba(255,255,255,.2); white-space:nowrap;
 }
 dd {margin:0}
 /* ENABLE POINTER EVENTS ON SPECIAL ELEMENTS */
-/* 
+/*
 .present a,
 .present a:hover,
 .present svg,
@@ -90,7 +90,7 @@ button.mfp-close {
 	padding: 25px 0 10px 0;
 	font-size: 18px;
 	background: #fff;
-	
+
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: -webkit-flex;
